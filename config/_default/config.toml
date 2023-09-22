@@ -1,3 +1,4 @@
+baseUrl = "https://pmslingr.github.io/slingrDoc"
 canonifyURLs = false
 relativeURLs = true
 disableAliases = false
